@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: 7c1e0ad61c36e45c19e32abdba48dadd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8439329595786739696
+    second: PlayerSideways_0
+  - first:
+      213: 3524244756724188601
+    second: PlayerSideways_1
+  - first:
+      213: -3122734954408965083
+    second: PlayerSideways_2
+  - first:
+      213: -3342145307361749318
+    second: PlayerSideways_3
+  - first:
+      213: -1387719112533816950
+    second: PlayerSideways_4
+  - first:
+      213: 7761091903380019256
+    second: PlayerSideways_5
+  - first:
+      213: 2064244739938550564
+    second: PlayerSideways_6
+  - first:
+      213: -3731044705930838172
+    second: PlayerSideways_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerSideways_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 43, y: 15}
+        - {x: 36, y: 17}
+        - {x: 20, y: 17}
+        - {x: 14, y: 9}
+        - {x: 8, y: 9}
+        - {x: 7, y: 8}
+        - {x: -12, y: 8}
+        - {x: -13, y: 7}
+        - {x: -30, y: 7}
+        - {x: -45, y: 6}
+        - {x: -48, y: 3}
+        - {x: -48, y: -3}
+        - {x: -45, y: -6}
+        - {x: -30, y: -7}
+        - {x: -13, y: -7}
+        - {x: -12, y: -8}
+        - {x: 7, y: -8}
+        - {x: 8, y: -9}
+        - {x: 15, y: -11}
+        - {x: 22, y: -17}
+        - {x: 34, y: -17}
+        - {x: 44, y: -15}
+        - {x: 48, y: -10}
+        - {x: 48, y: 9}
+      tessellationDetail: 0.7
+      bones: []
+      spriteID: 0ff3f4bcd858e1570800000000000000
+      internalID: 8439329595786739696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSideways_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 47, y: -9}
+        - {x: 48, y: -6}
+        - {x: 48, y: 9}
+        - {x: 46, y: 13}
+        - {x: 41, y: 18}
+        - {x: 24, y: 18}
+        - {x: 20, y: 17}
+        - {x: 15, y: 13}
+        - {x: 8, y: 11}
+        - {x: -8, y: 11}
+        - {x: -13, y: 10}
+        - {x: -15, y: 8}
+        - {x: -21, y: 7}
+        - {x: -26, y: 6}
+        - {x: -27, y: 5}
+        - {x: -46, y: 5}
+        - {x: -48, y: 4}
+        - {x: -48, y: -5}
+        - {x: -43, y: -7}
+        - {x: -38, y: -8}
+        - {x: -34, y: -9}
+        - {x: -20, y: -9}
+        - {x: -12, y: -8}
+        - {x: -8, y: -7}
+        - {x: -7, y: -6}
+        - {x: 1, y: -6}
+        - {x: 5, y: -8}
+        - {x: 15, y: -8}
+        - {x: 20, y: -14}
+        - {x: 23, y: -15}
+        - {x: 32, y: -15}
+        - {x: 36, y: -14}
+        - {x: 39, y: -11}
+        - {x: 44, y: -11}
+      tessellationDetail: 0.7
+      bones: []
+      spriteID: 9b5041a1fe1a8e030800000000000000
+      internalID: 3524244756724188601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSideways_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 44, y: -8}
+        - {x: 47, y: -5}
+        - {x: 48, y: 1}
+        - {x: 48, y: 10}
+        - {x: 47, y: 12}
+        - {x: 43, y: 18}
+        - {x: 39, y: 20}
+        - {x: 25, y: 20}
+        - {x: 19, y: 18}
+        - {x: 12, y: 11}
+        - {x: 9, y: 13}
+        - {x: 3, y: 15}
+        - {x: -12, y: 15}
+        - {x: -17, y: 13}
+        - {x: -19, y: 11}
+        - {x: -28, y: 5}
+        - {x: -29, y: 4}
+        - {x: -36, y: 4}
+        - {x: -39, y: 6}
+        - {x: -44, y: 8}
+        - {x: -48, y: 8}
+        - {x: -48, y: -1}
+        - {x: -43, y: -6}
+        - {x: -38, y: -8}
+        - {x: -32, y: -9}
+        - {x: -22, y: -9}
+        - {x: -21, y: -8}
+        - {x: -14, y: -8}
+        - {x: -6, y: -3}
+        - {x: 1, y: -3}
+        - {x: 2, y: -4}
+        - {x: 11, y: -7}
+        - {x: 16, y: -8}
+        - {x: 19, y: -12}
+        - {x: 24, y: -14}
+        - {x: 31, y: -14}
+        - {x: 34, y: -13}
+        - {x: 39, y: -11}
+        - {x: 39, y: -8}
+      tessellationDetail: 0.7
+      bones: []
+      spriteID: 52c02ca9a11d9a4d0800000000000000
+      internalID: -3122734954408965083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSideways_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 47, y: -9}
+        - {x: 48, y: -6}
+        - {x: 48, y: 9}
+        - {x: 46, y: 13}
+        - {x: 41, y: 18}
+        - {x: 24, y: 18}
+        - {x: 20, y: 17}
+        - {x: 14, y: 11}
+        - {x: -8, y: 11}
+        - {x: -13, y: 10}
+        - {x: -15, y: 8}
+        - {x: -21, y: 7}
+        - {x: -26, y: 6}
+        - {x: -27, y: 5}
+        - {x: -46, y: 5}
+        - {x: -48, y: 4}
+        - {x: -48, y: -5}
+        - {x: -43, y: -7}
+        - {x: -38, y: -8}
+        - {x: -34, y: -9}
+        - {x: -20, y: -9}
+        - {x: -19, y: -8}
+        - {x: -12, y: -8}
+        - {x: -8, y: -7}
+        - {x: -7, y: -6}
+        - {x: 1, y: -6}
+        - {x: 5, y: -8}
+        - {x: 15, y: -8}
+        - {x: 17, y: -12}
+        - {x: 23, y: -15}
+        - {x: 32, y: -15}
+        - {x: 36, y: -14}
+        - {x: 39, y: -11}
+        - {x: 44, y: -11}
+      tessellationDetail: 0.7
+      bones: []
+      spriteID: ab6d6f6ec805e91d0800000000000000
+      internalID: -3342145307361749318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSideways_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 43, y: 15}
+        - {x: 36, y: 17}
+        - {x: 20, y: 17}
+        - {x: 14, y: 9}
+        - {x: 8, y: 9}
+        - {x: 7, y: 8}
+        - {x: -12, y: 8}
+        - {x: -13, y: 7}
+        - {x: -30, y: 7}
+        - {x: -45, y: 6}
+        - {x: -48, y: 3}
+        - {x: -48, y: -3}
+        - {x: -45, y: -6}
+        - {x: -30, y: -7}
+        - {x: -13, y: -7}
+        - {x: -12, y: -8}
+        - {x: 7, y: -8}
+        - {x: 8, y: -9}
+        - {x: 15, y: -11}
+        - {x: 22, y: -17}
+        - {x: 34, y: -17}
+        - {x: 44, y: -15}
+        - {x: 48, y: -10}
+        - {x: 48, y: 9}
+      tessellationDetail: 0.7
+      bones: []
+      spriteID: a89c661d1d4ddbce0800000000000000
+      internalID: -1387719112533816950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSideways_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 48, y: -9}
+        - {x: 48, y: 6}
+        - {x: 44, y: 11}
+        - {x: 39, y: 11}
+        - {x: 36, y: 14}
+        - {x: 32, y: 15}
+        - {x: 23, y: 15}
+        - {x: 16, y: 10}
+        - {x: 15, y: 8}
+        - {x: 5, y: 8}
+        - {x: 1, y: 6}
+        - {x: -7, y: 6}
+        - {x: -8, y: 7}
+        - {x: -12, y: 8}
+        - {x: -20, y: 9}
+        - {x: -34, y: 9}
+        - {x: -38, y: 8}
+        - {x: -43, y: 7}
+        - {x: -48, y: 4}
+        - {x: -48, y: -4}
+        - {x: -46, y: -5}
+        - {x: -27, y: -5}
+        - {x: -26, y: -6}
+        - {x: -17, y: -8}
+        - {x: -13, y: -10}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 14, y: -9}
+        - {x: 15, y: -12}
+        - {x: 20, y: -17}
+        - {x: 24, y: -18}
+        - {x: 41, y: -18}
+        - {x: 46, y: -13}
+      tessellationDetail: 0.7
+      bones: []
+      spriteID: 838502257ffe4bb60800000000000000
+      internalID: 7761091903380019256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSideways_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 48, y: -10}
+        - {x: 48, y: 2}
+        - {x: 47, y: 5}
+        - {x: 44, y: 8}
+        - {x: 39, y: 10}
+        - {x: 37, y: 12}
+        - {x: 31, y: 14}
+        - {x: 24, y: 14}
+        - {x: 19, y: 12}
+        - {x: 16, y: 9}
+        - {x: 15, y: 7}
+        - {x: 11, y: 7}
+        - {x: 5, y: 5}
+        - {x: 1, y: 3}
+        - {x: -6, y: 3}
+        - {x: -14, y: 8}
+        - {x: -21, y: 8}
+        - {x: -22, y: 9}
+        - {x: -32, y: 9}
+        - {x: -38, y: 8}
+        - {x: -44, y: 6}
+        - {x: -48, y: 1}
+        - {x: -48, y: -8}
+        - {x: -44, y: -8}
+        - {x: -39, y: -6}
+        - {x: -36, y: -4}
+        - {x: -28, y: -5}
+        - {x: -24, y: -6}
+        - {x: -17, y: -13}
+        - {x: -12, y: -15}
+        - {x: 3, y: -15}
+        - {x: 9, y: -13}
+        - {x: 13, y: -11}
+        - {x: 14, y: -13}
+        - {x: 19, y: -18}
+        - {x: 25, y: -20}
+        - {x: 39, y: -20}
+        - {x: 44, y: -16}
+        - {x: 47, y: -13}
+      tessellationDetail: 0.7
+      bones: []
+      spriteID: 423818577aba5ac10800000000000000
+      internalID: 2064244739938550564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSideways_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 48, y: -9}
+        - {x: 48, y: 6}
+        - {x: 44, y: 11}
+        - {x: 39, y: 11}
+        - {x: 36, y: 14}
+        - {x: 32, y: 15}
+        - {x: 23, y: 15}
+        - {x: 16, y: 10}
+        - {x: 15, y: 8}
+        - {x: 5, y: 8}
+        - {x: 1, y: 6}
+        - {x: -7, y: 6}
+        - {x: -8, y: 7}
+        - {x: -12, y: 8}
+        - {x: -20, y: 9}
+        - {x: -34, y: 9}
+        - {x: -38, y: 8}
+        - {x: -43, y: 7}
+        - {x: -48, y: 4}
+        - {x: -48, y: -4}
+        - {x: -46, y: -5}
+        - {x: -27, y: -5}
+        - {x: -26, y: -6}
+        - {x: -17, y: -8}
+        - {x: -13, y: -10}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 14, y: -9}
+        - {x: 15, y: -12}
+        - {x: 20, y: -17}
+        - {x: 24, y: -18}
+        - {x: 41, y: -18}
+        - {x: 46, y: -13}
+      tessellationDetail: 0.7
+      bones: []
+      spriteID: 46ff3ed9b9aa83cc0800000000000000
+      internalID: -3731044705930838172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

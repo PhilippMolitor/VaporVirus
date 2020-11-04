@@ -1,0 +1,902 @@
+fileFormatVersion: 2
+guid: 1f2c883416a7142efb65578e4b4d91fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3213220877677076782
+    second: LogoAnimation_0
+  - first:
+      213: -4349409864701103833
+    second: LogoAnimation_1
+  - first:
+      213: 2535970143343937804
+    second: LogoAnimation_2
+  - first:
+      213: -3670215250330728225
+    second: LogoAnimation_3
+  - first:
+      213: -662062498084266177
+    second: LogoAnimation_4
+  - first:
+      213: -3360043147054790811
+    second: LogoAnimation_5
+  - first:
+      213: -970769905719611090
+    second: LogoAnimation_6
+  - first:
+      213: 4287600801831929022
+    second: LogoAnimation_7
+  - first:
+      213: 8550040430238268367
+    second: LogoAnimation_8
+  - first:
+      213: -596924121960785987
+    second: LogoAnimation_9
+  - first:
+      213: -8341661083879699549
+    second: LogoAnimation_10
+  - first:
+      213: 7161745768134031903
+    second: LogoAnimation_11
+  - first:
+      213: -2167997267437228521
+    second: LogoAnimation_12
+  - first:
+      213: 8642052825881583805
+    second: LogoAnimation_13
+  - first:
+      213: 4768346749596529926
+    second: LogoAnimation_14
+  - first:
+      213: -6147378036835592058
+    second: LogoAnimation_15
+  - first:
+      213: -5333716906272459068
+    second: LogoAnimation_16
+  - first:
+      213: -3724001363012900014
+    second: LogoAnimation_17
+  - first:
+      213: -3368801562675952076
+    second: LogoAnimation_18
+  - first:
+      213: 5805525927182328251
+    second: LogoAnimation_19
+  - first:
+      213: -5855006363613598051
+    second: LogoAnimation_20
+  - first:
+      213: 7622328323395316601
+    second: LogoAnimation_21
+  - first:
+      213: -5850717954567951498
+    second: LogoAnimation_22
+  - first:
+      213: -1542333452411511124
+    second: LogoAnimation_23
+  - first:
+      213: 8097504416463087378
+    second: LogoAnimation_24
+  - first:
+      213: 7014393641995943379
+    second: LogoAnimation_25
+  - first:
+      213: -2317662969012966401
+    second: LogoAnimation_26
+  - first:
+      213: 5320171910563141408
+    second: LogoAnimation_27
+  - first:
+      213: 2595238465665860000
+    second: LogoAnimation_28
+  - first:
+      213: -1583801594055185843
+    second: LogoAnimation_29
+  - first:
+      213: 6524792007979603546
+    second: LogoAnimation_30
+  - first:
+      213: -960372248923261810
+    second: LogoAnimation_31
+  - first:
+      213: -7303792599023948129
+    second: LogoAnimation_32
+  - first:
+      213: -6066110273192509697
+    second: LogoAnimation_33
+  - first:
+      213: -5547317425412086707
+    second: LogoAnimation_34
+  - first:
+      213: 5298419690505166503
+    second: LogoAnimation_35
+  - first:
+      213: 1860677211031533266
+    second: LogoAnimation_36
+  - first:
+      213: 1512703491086368046
+    second: LogoAnimation_37
+  - first:
+      213: 1623495832694879379
+    second: LogoAnimation_38
+  - first:
+      213: -5123475771219655274
+    second: LogoAnimation_39
+  - first:
+      213: 3093643821784292707
+    second: LogoAnimation_40
+  - first:
+      213: 8686871078318931655
+    second: LogoAnimation_41
+  - first:
+      213: -4180200862473925199
+    second: LogoAnimation_42
+  - first:
+      213: -8975610815929373930
+    second: LogoAnimation_43
+  - first:
+      213: 6990843438810690328
+    second: LogoAnimation_44
+  - first:
+      213: -1475019562523987413
+    second: LogoAnimation_45
+  - first:
+      213: 7005019401239681725
+    second: LogoAnimation_46
+  - first:
+      213: 1166824042867008949
+    second: LogoAnimation_47
+  - first:
+      213: 4651724337450728631
+    second: LogoAnimation_48
+  - first:
+      213: 1957872581569179495
+    second: LogoAnimation_49
+  - first:
+      213: -928391210823527312
+    second: LogoAnimation_50
+  - first:
+      213: -7765732033655641298
+    second: LogoAnimation_51
+  - first:
+      213: -4304591253384837259
+    second: LogoAnimation_52
+  - first:
+      213: -5063942595801088945
+    second: LogoAnimation_53
+  - first:
+      213: 3803464897058467857
+    second: LogoAnimation_54
+  - first:
+      213: -1697326129434995940
+    second: LogoAnimation_55
+  - first:
+      213: 1933583746480764025
+    second: LogoAnimation_56
+  - first:
+      213: 5468243713798495994
+    second: LogoAnimation_57
+  - first:
+      213: 7650880737808320707
+    second: LogoAnimation_58
+  - first:
+      213: -5129432749977444784
+    second: LogoAnimation_59
+  - first:
+      213: 917851440192549735
+    second: LogoAnimation_60
+  - first:
+      213: 8872158244255442903
+    second: LogoAnimation_61
+  - first:
+      213: -2423135475368481427
+    second: LogoAnimation_62
+  - first:
+      213: 2387703097973524936
+    second: LogoAnimation_63
+  - first:
+      213: -7172983592096540501
+    second: LogoAnimation_64
+  - first:
+      213: 6496357488859737437
+    second: LogoAnimation_65
+  - first:
+      213: 3400481324060782127
+    second: LogoAnimation_66
+  - first:
+      213: -6105664538369859498
+    second: LogoAnimation_67
+  - first:
+      213: 8646464750231732324
+    second: LogoAnimation_68
+  - first:
+      213: -2049860540132776588
+    second: LogoAnimation_69
+  - first:
+      213: -5648220946133594285
+    second: LogoAnimation_70
+  - first:
+      213: 7598526376467249956
+    second: LogoAnimation_71
+  - first:
+      213: 2113575287878375608
+    second: LogoAnimation_72
+  - first:
+      213: -7372018107185921241
+    second: LogoAnimation_73
+  - first:
+      213: 2744950707684846220
+    second: LogoAnimation_74
+  - first:
+      213: 9123456737898872981
+    second: LogoAnimation_75
+  - first:
+      213: 840402334249810551
+    second: LogoAnimation_76
+  - first:
+      213: -2089036160793599803
+    second: LogoAnimation_77
+  - first:
+      213: -3133392314767708306
+    second: LogoAnimation_78
+  - first:
+      213: 6582243022186303332
+    second: LogoAnimation_79
+  - first:
+      213: 2384865622138973219
+    second: LogoAnimation_80
+  - first:
+      213: 2198765212216910914
+    second: LogoAnimation_81
+  - first:
+      213: -7367937351272046819
+    second: LogoAnimation_82
+  - first:
+      213: -2729210963240774860
+    second: LogoAnimation_83
+  - first:
+      213: 501853692617448535
+    second: LogoAnimation_84
+  - first:
+      213: -6820646492638491592
+    second: LogoAnimation_85
+  - first:
+      213: -4851976967750572000
+    second: LogoAnimation_86
+  - first:
+      213: 6367694534657279503
+    second: LogoAnimation_87
+  - first:
+      213: 5215067399280099879
+    second: LogoAnimation_88
+  - first:
+      213: 7264323081052171600
+    second: LogoAnimation_89
+  - first:
+      213: -882334938273122590
+    second: LogoAnimation_90
+  - first:
+      213: -4733886527515280902
+    second: LogoAnimation_91
+  - first:
+      213: -7494579217467873581
+    second: LogoAnimation_92
+  - first:
+      213: -8341022406950610191
+    second: LogoAnimation_93
+  - first:
+      213: 553581201613736931
+    second: LogoAnimation_94
+  - first:
+      213: 381020363477269357
+    second: LogoAnimation_95
+  - first:
+      213: -2545675360057620504
+    second: LogoAnimation_96
+  - first:
+      213: 2249732521627994818
+    second: LogoAnimation_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LogoAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de5039d2a85863d0800000000000000
+      internalID: -3213220877677076782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72139efa5cac3a3c0800000000000000
+      internalID: -4349409864701103833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c090303c863913320800000000000000
+      internalID: 2535970143343937804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8c0daeca6c01dc0800000000000000
+      internalID: -3670215250330728225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f549e6aa1efc6f0800000000000000
+      internalID: -662062498084266177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56740dd5f8abe51d0800000000000000
+      internalID: -3360043147054790811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2171f20ae12782f0800000000000000
+      internalID: -970769905719611090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb44fdb663e908b30800000000000000
+      internalID: 4287600801831929022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb7493a878d7a670800000000000000
+      internalID: 8550040430238268367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db75aa87cac47b7f0800000000000000
+      internalID: -596924121960785987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab86a2b0777c3c80800000000000000
+      internalID: -8341661083879699549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a3941e4d1a36360800000000000000
+      internalID: 7161745768134031903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ee268c8f9b9e1e0800000000000000
+      internalID: -2167997267437228521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db025d0f14dbee770800000000000000
+      internalID: 8642052825881583805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605f69fda129c2240800000000000000
+      internalID: 4768346749596529926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6885066ee3020baa0800000000000000
+      internalID: -6147378036835592058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c67225abb4daf5b0800000000000000
+      internalID: -5333716906272459068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bab8ead70b15cc0800000000000000
+      internalID: -3724001363012900014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4364be1d3dc9f31d0800000000000000
+      internalID: -3368801562675952076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1e500621f519050800000000000000
+      internalID: 5805525927182328251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ee823cbb6debea0800000000000000
+      internalID: -5855006363613598051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b606da933f7c960800000000000000
+      internalID: 7622328323395316601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b2afcc4031ecea0800000000000000
+      internalID: -5850717954567951498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae5fcb85e7889ae0800000000000000
+      internalID: -1542333452411511124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
